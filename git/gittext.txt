@@ -1,0 +1,2 @@
+my  first local git text
+this file is not link with github
